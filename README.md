@@ -4,7 +4,7 @@ It was part of the 6.824 MIT course, which is publicly available.
 * Course videos: https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
 * Course Resources: https://pdos.csail.mit.edu/6.824/schedule.html
 ## Implementation
-I implemented the code similar to the original [Google map-reduce paper](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
+I implemented the code similar to the original [Google map-reduce paper](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf). It was implemented on top of the course base code.
 Coordinator and worker processes are implemented separately and use RPCs to talk to each other.
 Other features such as worker crash support are also implemented.
 ## Usage
