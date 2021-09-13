@@ -1,5 +1,5 @@
 # Distributed Map Reduce
-I implemented this project as my self-learning effort in order to learn distributed system concepts.
+I implemented this project as my self-learning effort in order to learn distributed systems.
 It was part of the 6.824 MIT course, which is publicly available.  
 * Course videos: https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
 * Course Resources: https://pdos.csail.mit.edu/6.824/schedule.html
